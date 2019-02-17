@@ -4,6 +4,6 @@
 *__成员：__ 何杨林 <br>
 *__爬取结果：__ 网页目录+网页文本内容+分类结果<br>
 
- ![image](http://github.com/GreehE/FxxxPY/img/1.PNG)
- ![image](http://github.com/GreehE/FxxxPY/img/2.PNG)
- ![image](http://github.com/GreehE/FxxxPY/img/3.PNG)
+ ![image](http://github.com/GreehE/FxxxPY/img/1.PNG)<br>
+ ![image](http://github.com/GreehE/FxxxPY/img/2.PNG)<br>
+ ![image](http://github.com/GreehE/FxxxPY/img/3.PNG)<br>
